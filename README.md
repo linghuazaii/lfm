@@ -1,1 +1,2 @@
 # lfm
+Latent Factor Model
